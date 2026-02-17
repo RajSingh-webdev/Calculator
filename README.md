@@ -6,7 +6,7 @@ This project was developed as a **practice project** after completing the fundam
 Its primary goal was to apply core concepts and strengthen hands-on experience with real browser-based interactions.
 
 ## 🔗 Live Demo
-👉 Add your live project link here
+👉 live project link here
 
 ## ✨ Features
 - Supports basic arithmetic operations
