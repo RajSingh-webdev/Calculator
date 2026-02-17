@@ -2,17 +2,17 @@
 
 A simple and responsive calculator web application built using **HTML, CSS, and JavaScript**.
 
-This project was developed as a **practice project** after completing the fundamentals of frontend development.  
-Its primary goal was to apply core concepts and strengthen hands-on experience with real browser-based interactions.
+This project was developed as a **frontend practice project** after learning the fundamentals of web development.  
+The goal was to apply core concepts and improve hands-on experience with real browser-based interactions.
 
 ## 🔗 Live Demo
-👉 live project link here
+https://calculator-fzd0.onrender.com
 
 ## ✨ Features
-- Supports basic arithmetic operations
+- Basic arithmetic operations (addition, subtraction, multiplication, division)
 - Clean and minimal user interface
-- Responsive design for different screen sizes
-- Runs directly in the browser without dependencies
+- Responsive layout
+- Runs entirely in the browser
 
 ## 🛠️ Tech Stack
 - HTML5
@@ -20,7 +20,7 @@ Its primary goal was to apply core concepts and strengthen hands-on experience w
 - JavaScript (ES6)
 
 ## 📚 Learning Outcomes
-- Practical understanding of DOM manipulation
-- Event handling and user input processing
-- Structuring and organizing frontend code
-- Building a complete mini-project from scratch
+- DOM manipulation and event handling
+- Handling user input and application logic
+- Structuring a small frontend project
+- Deploying a static site using Render
